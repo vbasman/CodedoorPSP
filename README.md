@@ -1,6 +1,5 @@
 # CodedoorPSP
 Codedoor Welcome to the Web Developer Path section
-  
   Thinking about the functions of the following products;
     Taxi service: to offer people transportation from a place to another safely, comfortably and on time whenever they want.
     Pizza Restaurant: to offer its customers delicious pizzas.
