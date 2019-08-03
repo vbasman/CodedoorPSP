@@ -5,6 +5,3 @@ Taxi service: to offer people transportation from a place to another safely, com
 Pizza Restaurant: to offer its customers delicious pizzas.
 Hotels: to offer its guests a safe and comfortable stay.
 Smartphones: to provide a number of conveniences to its user as a multichannel communication, productivity and entertainment tool.
-  
-  
-
